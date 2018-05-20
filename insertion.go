@@ -1,5 +1,6 @@
 package sort
 
+// 插入排序
 func Insertion(arr []int) {
 	n := len(arr)
 	if n < 2 {

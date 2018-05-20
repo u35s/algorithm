@@ -1,5 +1,6 @@
 package sort
 
+// 冒泡
 func Bubble(arr []int) {
 	n := len(arr)
 	if n < 2 {

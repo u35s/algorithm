@@ -11,7 +11,10 @@
   - [朴素模式匹配算法](#朴素模式匹配算法)
   - [KMP模式匹配算法](#KMP模式匹配算法)
   - [Boyer-Moore算法](#Boyer-Moore算法)
-
+- [查找](#查找)
+  - [散列表查找](#散列表查找)
+    - [xxhash](#xxhash) 
+    - [cityhash](#cityhash) 
 ## 容器
 
 ### 搜索map
@@ -42,3 +45,12 @@
 - [字符串匹配的KMP算法](http://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html)
 
 ### Boyer-Moore算法
+
+## 查找
+
+### 散列表查找
+
+#### xxhash
+- [link](https://code.google.com/archive/p/xxhash/)
+#### cityhash
+- [link](https://code.google.com/p/cityhash/)

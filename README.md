@@ -45,7 +45,7 @@
 - [字符串匹配的KMP算法](http://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html)
 
 ### Boyer-Moore算法
-- [代码](./string/boyer_moore..go)
+- [代码](./string/boyer_moore.go)
 
 ## 查找
 
